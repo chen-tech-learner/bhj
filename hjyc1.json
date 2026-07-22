@@ -1,0 +1,111 @@
+﻿{
+  "spider": "https://gitee.com/yuan301/tv/raw/master/A/y_721.png;md5;80bb2e048b18cccd38a606a3859b0ba8",
+  "sites": [
+    {
+      "key": "暴风┃采集",
+      "name": "暴风🐺采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "量子┃采集",
+      "name": "量子🐺采集",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    }
+  ],
+  "lives": [
+    {
+      "name": "刚哥无敌",
+      "type": 0,
+      "url": "https://gitee.com/yuan301/tv/raw/master/A/z_v.png",
+      "timeout": 7,
+      "ua": "okHttp/Mod-1.5.0.0",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://tb.zbds.top/logo/{name}.png"
+    },
+    {
+      "name": "测试",
+      "type": 0,
+      "url": "https://codeberg.org/yuan301/ok/raw/branch/main/1.txt"
+    }
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+    "cdn9.163189.xyz=gcore.jsdelivr.net",
+    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+  ],
+  "notice": "【请勿相信视频中的广告】",
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
+  "parses": [
+    {
+      "name": "夜夜",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=db40a4b2f15c4078301a068181bb2724&url="
+    },
+    {
+      "name": "白粥",
+      "type": 1,
+      "url": "http://103.236.72.166:188/api/?key=veniDOaEzSzIThZsyb&url="
+    },
+    {
+      "name": "无极",
+      "type": 1,
+      "url": "http://111.170.140.70:1332/?url="
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "杰西",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "刺客",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    }
+  ]
+}
