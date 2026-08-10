@@ -307,23 +307,20 @@
         "name": "DG直播",
         "type": 0,
         "url": "http://1.94.31.214/live/live9/dgtv.txt",
-        "timeout": 7,
-        "ua": "okHttp/Mod-1.5.0.0"
+        "timeout": 15,
     },
     {
         "name": "至尊",
         "type": 0,
         "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%B3%E5%B0%8A.m3u",
-        "timeout": 7,
-        "ua": "okHttp/Mod-1.5.0.0"
-    },
+        "timeout": 15,
+     },
     {
         "name": "咪咕",
         "type": 0,
         "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
-        "timeout": 7,
-        "ua": "okHttp/Mod-1.5.0.0"
-    }
+        "timeout": 15,
+  }
 ],
   "hosts": [
     "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
