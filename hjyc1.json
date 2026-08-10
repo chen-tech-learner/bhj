@@ -56,7 +56,7 @@
       "filterable": 1
     },
     {
-      "key": "无尽资源",
+      "key": "wujzy",
       "name": "🦋 无尽资源｜🔞｜",
       "type": 1,
       "api": "https://api.wujinapi.net/api.php/provide/vod/",
@@ -65,7 +65,7 @@
       "filterable": 1
     },
     {
-      "key": "玉兔资源",
+      "key": "ytzy",
       "name": "🦋 玉兔資源｜🔞｜",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
@@ -74,7 +74,7 @@
       "filterable": 1
     },
     {
-      "key": "精品资源",
+      "key": "jpzy",
       "name": "🦋 精品資源｜🔞｜",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/",
@@ -83,7 +83,7 @@
       "filterable": 1
     },
     {
-      "key": "夜色资源",
+      "key": "yszy",
       "name": "🦋 越南資源｜🔞｜",
       "type": 1,
       "api": "https://www.vnzyz.com/api.php/provide/vod/",
@@ -92,7 +92,7 @@
       "filterable": 1
     },
     {
-      "key": "辣椒資源",
+      "key": "ljzy",
       "name": "🦋 辣椒資源｜🔞｜",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
@@ -101,7 +101,7 @@
       "filterable": 1
     },
     {
-      "key": "鯊魚資源",
+      "key": "syzy",
       "name": "🦋 鯊魚資源｜🔞｜",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
@@ -110,7 +110,7 @@
       "filterable": 1
     },
     {
-      "key": "155資源",
+      "key": "155zy",
       "name": "🦋 155資源｜🔞｜",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
@@ -119,7 +119,7 @@
       "filterable": 0
     },
     {
-      "key": "滴滴资源",
+      "key": "ddzy",
       "name": "🦋 滴滴资源｜🔞｜",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
@@ -128,7 +128,7 @@
       "filterable": 1
     },
     {
-      "key": "蕃茄",
+      "key": "fanqie",
       "name": "🦋 18+蕃茄｜🔞｜",
       "type": 1,
       "api": "https://fqzy.me//api.php/provide/vod/",
@@ -137,7 +137,7 @@
       "filterable": 1
     },
     {
-      "key": "红桃🍑",
+      "key": "hongtao",
       "name": "🦋 红桃视频🍑｜🔞｜",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
@@ -146,7 +146,7 @@
       "filterable": 1
     },
     {
-      "key": "jkun资源",
+      "key": "jkunzy",
       "name": "🦋 jkun资源｜🔞｜",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -155,7 +155,7 @@
       "filterable": 0
     },
     {
-      "key": "精品X资源",
+      "key": "jpxzy",
       "name": "🦋 精品X资源｜🔞｜",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod",
@@ -164,7 +164,7 @@
       "filterable": 0
     },
     {
-      "key": "CK资源",
+      "key": "CKzy",
       "name": "🦋 CK资源｜🔞｜",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod",
@@ -173,7 +173,7 @@
       "filterable": 0
     },
     {
-      "key": "🔞七天资源🌈",
+      "key": "qiantzy",
       "name": "🦋 七天资源🌈｜🔞｜",
       "type": 1,
       "api": "https://8day.icu/api.php/provide/vod/at/json",
@@ -182,7 +182,7 @@
       "filterable": 0
     },
     {
-      "key": "百万",
+      "key": "baiwan",
       "name": "🦋 百万｜🔞｜",
       "type": 1,
       "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
@@ -191,7 +191,7 @@
       "filterable": 0
     },
     {
-      "key": "鸡坤",
+      "key": "jk",
       "name": "🦋 鸡坤｜🔞｜",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
@@ -206,7 +206,7 @@
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "香蕉资源",
+      "key": "xjzy",
       "name": "🦋 香蕉资源🔞｜",
       "type": 0,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
@@ -214,7 +214,7 @@
       "quickSearch": 0
     },
     {
-      "key": "大地采集",
+      "key": "ddcaij",
       "name": "🦋 大地av｜🔞｜",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
@@ -224,7 +224,7 @@
       "filterable": 0
     },
     {
-      "key": "*番号资源",
+      "key": "fhzy",
       "name": "🦋 番号资源｜🔞｜",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -233,7 +233,7 @@
       "filterable": 0
     },
     {
-      "key": "黄色仓库|AV",
+      "key": "hsckAV",
       "name": "🦋 黄色仓库(旧)｜🔞｜",
       "type": 1,
       "api": "https://hsckzy.vip/api.php/provide/vod/",
@@ -242,7 +242,7 @@
       "filterable": 0
     },
     {
-      "key": "桃花资源|AV",
+      "key": "thzyAV",
       "name": "🦋 桃花资源｜🔞｜",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/",
@@ -251,7 +251,7 @@
       "filterable": 0
     },
     {
-      "key": "乐播资源|AV",
+      "key": "lbzyAV",
       "name": "🦋 乐播资源｜🔞｜",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -260,7 +260,7 @@
       "filterable": 0
     },
     {
-      "key": "fqzy资源",
+      "key": "fqzyzy",
       "name": "🦋 国产资源｜🔞｜",
       "type": 1,
       "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "key": "lsb资源|AV",
+      "key": "lsbzyAV",
       "name": "🦋 lsb资源｜🔞｜",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
