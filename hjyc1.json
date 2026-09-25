@@ -1,20 +1,20 @@
 {
   "sites": [
     {
-      "key": "暴风┃采集",
-      "name": "暴风🐺采集",
+      "key": "baofengcj",
+      "name": "🔥全网｜影视合集🔥",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/"
     },
     {
-      "key": "量子┃采集",
-      "name": "量子🐺采集",
+      "key": "liangzicj",
+      "name": "🔥全网｜影视合集🔥1",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/"
     },
 	{
       "key": "slyzy",
-      "name": "🦋 湿乐园｜🔞｜",
+      "name": "🔥全网｜影视合集🔥2",
       "type": 1,
       "api": "https://xxavs.com/api.php/provide/vod",
       "searchable": 1,
@@ -23,7 +23,7 @@
     },
     {
       "key": "nxxzy",
-      "name": "🦋 奶香香｜🔞｜",
+      "name": "🔥全网｜影视合集🔥3",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
     {
       "key": "wujzy",
-      "name": "🦋 无尽资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥4",
       "type": 1,
       "api": "https://api.wujinapi.net/api.php/provide/vod/",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "ytzy",
-      "name": "🦋 玉兔資源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥5",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "jpzy",
-      "name": "🦋 精品資源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥6",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "yszy",
-      "name": "🦋 越南資源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥7",
       "type": 1,
       "api": "https://www.vnzyz.com/api.php/provide/vod/",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "ljzy",
-      "name": "🦋 辣椒資源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥8",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -77,7 +77,7 @@
     },
     {
       "key": "syzy",
-      "name": "🦋 鯊魚資源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥9",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -86,7 +86,7 @@
     },
     {
       "key": "155zy",
-      "name": "🦋 155資源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥10",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "ddzy",
-      "name": "🦋 滴滴资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥11",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -104,7 +104,7 @@
     },
     {
       "key": "fanqie",
-      "name": "🦋 18+蕃茄｜🔞｜",
+      "name": "🔥全网｜影视合集🔥12",
       "type": 1,
       "api": "https://fqzy.me//api.php/provide/vod/",
       "searchable": 1,
@@ -113,7 +113,7 @@
     },
     {
       "key": "hongtao",
-      "name": "🦋 红桃视频🍑｜🔞｜",
+      "name": "🔥全网｜影视合集🔥13",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -122,7 +122,7 @@
     },
     {
       "key": "jkunzy",
-      "name": "🦋 jkun资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥14",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "jpxzy",
-      "name": "🦋 精品X资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥15",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "CKzy",
-      "name": "🦋 CK资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥16",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "qiantzy",
-      "name": "🦋 七天资源🌈｜🔞｜",
+      "name": "🔥全网｜影视合集🔥17",
       "type": 1,
       "api": "https://8day.icu/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -158,7 +158,7 @@
     },
     {
       "key": "baiwan",
-      "name": "🦋 百万｜🔞｜",
+      "name": "🔥全网｜影视合集🔥18",
       "type": 1,
       "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
       "quickSearch": 1,
@@ -167,7 +167,7 @@
     },
     {
       "key": "jk",
-      "name": "🦋 鸡坤｜🔞｜",
+      "name": "🔥全网｜影视合集🔥19",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -176,13 +176,13 @@
     },
     {
       "key": "*AIvin",
-      "name": "🦋 AIvin｜🔞｜",
+      "name": "🔥全网｜影视合集🔥20",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "xjzy",
-      "name": "🦋 香蕉资源🔞｜",
+      "name": "🔥全网｜影视合集🔥21",
       "type": 0,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -190,7 +190,7 @@
     },
     {
       "key": "ddcaij",
-      "name": "🦋 大地av｜🔞｜",
+      "name": "🔥全网｜影视合集🔥22",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -200,7 +200,7 @@
     },
     {
       "key": "fhzy",
-      "name": "🦋 番号资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥23",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -209,7 +209,7 @@
     },
     {
       "key": "hsckAV",
-      "name": "🦋 黄色仓库(旧)｜🔞｜",
+      "name": "🔥全网｜影视合集🔥24",
       "type": 1,
       "api": "https://hsckzy.vip/api.php/provide/vod/",
       "quickSearch": 1,
@@ -218,7 +218,7 @@
     },
     {
       "key": "thzyAV",
-      "name": "🦋 桃花资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥25",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/",
       "quickSearch": 1,
@@ -227,7 +227,7 @@
     },
     {
       "key": "lbzyAV",
-      "name": "🦋 乐播资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥26",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -236,7 +236,7 @@
     },
     {
       "key": "fqzyzy",
-      "name": "🦋 国产资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥27",
       "type": 1,
       "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -257,7 +257,7 @@
     },
     {
       "key": "lsbzyAV",
-      "name": "🦋 lsb资源｜🔞｜",
+      "name": "🔥全网｜影视合集🔥28",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -266,13 +266,13 @@
     },
     {
       "key": "bfcj",
-      "name": "暴风🐺采集",
+      "name": "🔥全网｜影视合集🔥29",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/"
     },
     {
       "key": "lzcj",
-      "name": "量子🐺采集",
+      "name": "🔥全网｜影视合集🔥30",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/"
     }
@@ -366,21 +366,21 @@
   ],
   "lives": [
     {
-      "name": "DG直播",
+      "name": "📺全网｜电视直播📺",
       "type": 0,
       "url": "http://1.94.31.214/live/live9/dgtv.txt",
       "timeout": 15
     },
     {
-      "name": "至尊",
+      "name": "📺全网｜电视直播📺1",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%B3%E5%B0%8A.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/clh3@main/zizhun.m3u",
       "timeout": 15
     },
     {
-      "name": "咪咕",
+      "name": "📺央卫｜电视直播📺2",
       "type": 0,
-      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/cyh92/live/main/source/migu.m3u",
       "timeout": 15
     }
   ],
